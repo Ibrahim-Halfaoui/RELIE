@@ -1,0 +1,10 @@
+Invoice:
+1. Item candidate proposal remove numbers
+2. Item candidate proposal adjust clustering thresholds
+3. Add horizontal line separator visual que
+4. Separate models per document type
+5. Text skew correction
+
+Ambulatory List:
+1. Bound using two column assumption
+2. Bound using horizontal lines

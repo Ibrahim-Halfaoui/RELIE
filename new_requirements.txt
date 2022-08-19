@@ -1,0 +1,8 @@
+pytesseract==0.3.8
+opencv-python==4.5.5.62
+dateparser==1.1.0
+torch==1.6.0
+focal-loss-torch==0.0.7
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+regex==2022.1.18
